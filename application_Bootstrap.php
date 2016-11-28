@@ -11,4 +11,5 @@
 4.{
 initialize();
 
+close();
 5.}
